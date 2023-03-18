@@ -1,1 +1,10 @@
-
+Question : Difference between Document and Window object.
+Answer  :  Document Object:
+                    Its the web page loaded in the browser.
+             Syntax : document.property name 
+             Example: document.title (Returns the title name of the document)
+                      window.document.title  ( can also be accessed by a window )
+           Window object:
+                      Its the window frame or browser that displays the content of the HTML page, first object loaded in the browser.
+              Syntax : window.propertyname
+              Example : window.innerHeight (Returns the height of the content area of the browser)
